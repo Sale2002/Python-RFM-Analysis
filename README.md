@@ -1,0 +1,2 @@
+- Using Numpy, Pandas, Matplotlib, Seaborn in Python to make a RFM analysis for the purpose of finding meaningful insight.
+- Using domain knowledge and critical thinking to propose which metric is the most valuable for this case in RFM model, suggesting solutions that lead to more effective business practices.
