@@ -32,23 +32,8 @@ This is a transnational data set which contains all the transactions occurring b
 **Convert some columns to the potentially correct data type**
 ![image](https://github.com/user-attachments/assets/a0f4e713-6568-411f-914b-e86be6efafc2)
 ## 3. Data Processing
-**Cancelled transactions can also be filtered by InvoiceNo starting with letter "C"**
-![image](https://github.com/user-attachments/assets/3bb4b50a-f02e-4de9-8cf5-ee00f497b579)
-![image](https://github.com/user-attachments/assets/5abe1544-cf25-4ff3-8aee-f10a08c15a47)
-![image](https://github.com/user-attachments/assets/6dce9a39-8c04-4d70-8037-3c6578f73b4b)
-![image](https://github.com/user-attachments/assets/fca70708-6150-4136-a2dd-bb7d57239527)
-![image](https://github.com/user-attachments/assets/92d43352-0b0d-4f27-b32f-ebe2e0eaa1c2)
-![image](https://github.com/user-attachments/assets/62c3fe09-a5b7-4abc-9dc0-261710f819ad)
-![image](https://github.com/user-attachments/assets/65777038-ae03-4a99-b556-5a0b29772f2c)
-![image](https://github.com/user-attachments/assets/c6eac96b-009c-4bbc-bb48-ae8a5c7d6dc9)
-![image](https://github.com/user-attachments/assets/b1da8acb-88e6-408a-beba-dfccfad57af2)
-=> Number of cancelled transactions: 16.47%. The quantity of cancellations is pretty large.
-![image](https://github.com/user-attachments/assets/841a8e50-a047-40ac-adb7-10dcf9674923)
-![image](https://github.com/user-attachments/assets/42893ce5-3235-43ae-91c2-84269ae8ca74)
-![image](https://github.com/user-attachments/assets/259b5786-cd79-4d77-aea5-527a5b340737)
-![image](https://github.com/user-attachments/assets/19539539-6227-4407-b157-1a84dc83656c)
-![image](https://github.com/user-attachments/assets/1ff53303-0fea-4082-88b8-aaad19c589a0)
-![image](https://github.com/user-attachments/assets/589623e1-6bd5-4127-97f0-99d1a711460d)
+**Data after Processing**
+
 ![image](https://github.com/user-attachments/assets/f4aceffe-cc36-458b-ba17-7325d1de9f74)
 # III. Data Visualization
 ![image](https://github.com/user-attachments/assets/777d3609-5afb-4ee1-8911-c1979f529b4f)
