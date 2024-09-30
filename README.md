@@ -52,6 +52,7 @@ This is a transnational data set which contains all the transactions occurring b
 * **Step 5:** RFM Scoring: Customers were assigned RFM scores based on the distribution of their RFM values using quantiles (e.g., a 1–5 scale).
 
 * **Step 6:** Customer Segmentation: The RFM scores were combined to classify customers into distinct segments (e.g., top customers, at-risk customers, and new customers).
+
  To view the steps for executing the aforementioned process, please refer to the: [Appendix 1](#appendix_1)
 # III. Data Visualization
 ![image](https://github.com/user-attachments/assets/f9cf82bf-7fa1-46bc-8707-1041dde8d129)
@@ -77,6 +78,7 @@ This is a transnational data set which contains all the transactions occurring b
 => **Insight:** The distribution of customer spending is right-skewed, similar to the recency and frequency distributions, indicating that many customers have made relatively small expenditures, while a few have spent significantly larger amounts. The peak occurs in the 0-50,000 range, suggesting that a substantial portion of customers has relatively low total spending. The longer right tail highlights the presence of high-value or VIP customers who have made large expenditures. 
 
 **Preprocess the data before performing visualization:** [Appendix 2](#appendix_2)
+
 ![image](https://github.com/user-attachments/assets/257da369-8947-4eb4-a2ea-b5d64735f434)
 
 ![image](https://github.com/user-attachments/assets/1e68ba97-1fa9-4001-b81d-e16882e946d5)
