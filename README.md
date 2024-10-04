@@ -4,12 +4,12 @@
 This project aims to assist SuperStore, a global **retail company**, in launching **effective marketing campaigns** for the Christmas and New Year's seasons. The primary goal is to **express appreciation to existing customers and identify potential loyal customers** for personalized engagement. By applying **RFM** (Recency, Frequency, Monetary) analysis, the project seeks to **segment the large customer base**, enabling the development of **targeted marketing strategies** and **customized customer care programs**. This approach helps SuperStore **increase ROI,** **reduce customer churn, optimize marketing expenses, and improve customer relationships**.
 
 In this project, the following libraries were utilized for data analysis:
-* import **pandas** as pd  - For data manipulation and analysis
-* import **numpy** as np  - For numerical computing
-* import **datetime**  - For handling date and time operations
-* import **matplotlib**.pyplot as plt  - For data visualization
-* import **seaborn** as sns  - For enhanced data visualization
-* import **squarify**  - For creating tree maps
+* pandas
+* numpy
+* datetime
+* matplotlib
+* seaborn
+* squarify
 
 ## 1.2. Business Problem: 
 SuperStore needs to identify **key customer segments** to focus their marketing resources on the right groups, ensuring more effective outreach and personalized customer engagement during the holiday seasons. This involves determining which customers are most loyal, most active, and most profitable, allowing the business to allocate resources efficiently and improve customer satisfaction.
